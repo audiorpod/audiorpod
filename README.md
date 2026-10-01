@@ -1,41 +1,196 @@
-<h1 align="center">Hi there 👋, I'm Rupesh Sahu</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+```markdown
+<h1 align="center">Hi 👋, I'm Rupesh Sahu</h1>
+<h3 align="center">AI Product Engineer | Data & AI Systems | Quick Commerce Intelligence | SaaS Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=audiorpod&label=Profile%20views&color=0e75b6&style=flat" alt="audiorpod" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=audiorpod" alt="audiorpod" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **APPNAFOOD (SAAS) **
-
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **Backend Developement**
-
-- 📝 I regularly write articles on https://www.linkedin.com/newsletters/rupesh-sahu-audiorpod-7038216645181419520/
-
-- 💬 Ask me about **react, node, javascript, java, springboot, express, aws**
-
-- 📫 How to reach me **rupeshsahu098765@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/rupesh-sahu-audiorpod](https://www.linkedin.com/in/rupesh-sahu-audiorpod)
-
-- ⚡ Fun fact **Its Depend on the situation**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/rupesh-sahu-audiorpod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupesh sahu" height="30" width="40" /></a>
-<a href="https://instagram.com/audiorpod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="audiorpod" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@developers-journey-rk8847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developers-journey-rk ( developerdiaries)" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rupesh_sahu112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh_sahu112" height="30" width="40" /></a>
+<p align="center">
+Building AI-powered products, market intelligence platforms, and large-scale data systems for Quick Commerce 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=audiorpod&label=Profile%20Views&color=0e75b6&style=flat" alt="audiorpod" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=audiorpod&show_icons=true&locale=en&layout=compact" alt="audiorpod" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=audiorpod&show_icons=true&locale=en" alt="audiorpod" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=audiorpod&" alt="audiorpod" /></p>
+- 💼 **AI Product Engineer - Data & AI Systems (Market Share Lead)** at **Trailytics AI**
+- 🏗️ Built a **Quick Commerce Intelligence SaaS Platform** used by **120+ brands across 200+ categories**
+- 📊 Processing **4 Crore+ records daily** across Blinkit, Zepto, Instamart & Amazon
+- 🤖 Building AI-powered solutions for:
+  - Market Share Analytics
+  - Content Intelligence
+  - Product Discovery
+  - OSA (On-Shelf Availability)
+  - NPD (New Product Development)
+  - Demand Forecasting
+  - Competitive Intelligence
+- 🌎 Tracking Quick Commerce performance across **120+ Indian cities**
+- 🔍 Passionate about Data Engineering, AI Systems, Product Development & Business Intelligence
+
+---
+
+## 🏆 Key Achievements
+
+- 🚀 Launched **QuickCast** – 7-module Quick Commerce Intelligence SaaS
+- 📈 Enabled market intelligence for brands including:
+  - Colgate
+  - Nivea
+  - Cipla
+  - Mars
+  - Bunge
+  - Zydus
+  - Danone
+  - Titan
+  - Prestige
+  - HUL
+  - Mondelez
+- ⚡ Reduced scraping runtime from **180 mins → 9 mins**
+- 📦 Built pipelines handling **900M+ records weekly**
+- 🎯 Achieved:
+  - 90%+ Market Share Accuracy on Blinkit
+  - 80-85% Accuracy on Zepto
+  - 95-97% SKU Mapping Accuracy
+- 🤝 Led cross-functional product and engineering initiatives
+
+---
+
+## 🔭 Currently Working On
+
+### QuickCast AI Platform
+
+A complete Quick Commerce Intelligence Platform featuring:
+
+- 📊 Market Share Intelligence
+- 🏪 OSA Analytics
+- 🚀 New Product Discovery
+- 🎯 Ad Intelligence
+- 🧠 AI Insights Engine
+- 📸 Content Intelligence
+- 📈 Category & Brand Growth Analytics
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI Systems
+- Agentic AI
+- LLM Engineering
+- AWS Architecture
+- Data Engineering at Scale
+- ClickHouse & OLAP Systems
+
+---
+
+## 💬 Ask Me About
+
+- Python
+- SQL
+- Data Engineering
+- Market Share Analytics
+- Web Scraping
+- AI Product Development
+- React
+- FastAPI
+- AWS
+- ETL Pipelines
+- Quick Commerce Intelligence
+- Product Analytics
+- SaaS Development
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **rupeshsahu098765@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/rupesh-sahu-audiorpod/**
+- 🧠 LeetCode: **https://leetcode.com/u/rupesh_sahu112/**
+- 📺 YouTube: **https://www.youtube.com/@developers-journey-rk8847**
+- 📸 Instagram: **https://instagram.com/audiorpod**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git" />
+</p>
+
+### Data & Analytics
+
+- Pandas
+- NumPy
+- Power BI
+- ClickHouse
+- ETL Pipelines
+- Data Warehousing
+- Feature Engineering
+- Forecasting Models
+
+### AI & Automation
+
+- Gemini AI
+- LLM Applications
+- AI Agents
+- OCR Pipelines
+- Prompt Engineering
+- Content Intelligence Systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=audiorpod&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=audiorpod&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audiorpod&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build India's leading Quick Commerce Intelligence Platform
+- Scale QuickCast across 500+ brands
+- Launch AI-powered Content Intelligence Engine
+- Expand analytics coverage to 200+ cities
+- Build world-class AI Products used by enterprise brands
+
+---
+
+### ⚡ Fun Fact
+
+> I enjoy turning billions of raw data points into actionable business intelligence and AI-powered products.
+```
